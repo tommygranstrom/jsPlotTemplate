@@ -1,0 +1,17 @@
+#plotDiv
+{
+    /* width:1000px;
+    height:500px; */
+    border:1px solid black;
+}
+
+
+#dot
+{
+    position: relative;
+    height: 10px;
+    width: 10px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+}
